@@ -1,0 +1,8 @@
+seleniumproject\pageobjects\CartPage.class
+seleniumproject\pageobjects\ConfirmationPage.class
+seleniumproject\pageobjects\OrdersHistoryPage.class
+seleniumproject\pageobjects\CheckoutPage.class
+seleniumproject\utils\ExtentReportsNG.class
+seleniumproject\pageobjects\ProductsPage.class
+seleniumproject\pageobjects\LoginPage.class
+seleniumproject\utils\DriverWaits.class
